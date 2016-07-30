@@ -1,4 +1,3 @@
-layout_spectrum: 0.6695548908319324
 typography_spectrum: 0.8173211750108749
 color:
   brandStrength: 0.2207214841619134
@@ -11,5 +10,10 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.6695548908319324
 name: Jen Livsey Art
+navigation:
+  - name: The World's Best Budget Airlines
+    id: fd6a3be2-ae45-4eae-9027-d7fe303d39bf
+    type: content
 title: Jen Livsey Art
